@@ -1,17 +1,15 @@
 # 📊 Sales Performance Analytics Dashboard
 
-An interactive **Sales Performance Analytics Dashboard** built in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, and KPI Cards to analyze sales performance.
+An interactive **Sales Performance Analytics Dashboard** built in **Microsoft Excel** using a single sales dataset. This project includes **two different dashboard designs** created with Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
 
-## 🚀 Features
+## ✨ Features
 
-- Total Sales, Orders, Offers & Customers KPIs
-- Sales by Year
-- Product Sales Analysis
-- Salesperson Performance
-- Orders vs Offers Comparison
-- Top 10 Customers by Sales
-- Product Contribution Chart
-- Interactive Slicers
+- Two dashboard designs
+- Interactive KPI Cards
+- Pivot Tables & Pivot Charts
+- Dynamic Slicers
+- Sales Analysis by Year, Product, Salesperson, and Customer
+- Sales Summary & Trend Analysis
 
 ## 🛠 Tools Used
 
@@ -19,7 +17,7 @@ An interactive **Sales Performance Analytics Dashboard** built in **Microsoft Ex
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- KPI Cards
+- Conditional Formatting
 
 ## 👨‍💻 Author
 
